@@ -16,4 +16,4 @@ spec:
       - name: myapp
         image: abhidockerhub7620/kubernetesproject
         ports:
-        - containerPort: 8080
+        - containerPort: 80
